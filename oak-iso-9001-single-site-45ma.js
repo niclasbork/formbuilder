@@ -757,7 +757,7 @@
     if (attempt >= INIT_MAX_ATTEMPTS) {
       warnOnce(
         "init-timeout",
-        "[main.js] Initialisierung abgebrochen, weil Formular oder loader.engine nicht rechtzeitig verfuegbar waren.",
+        "[oak-iso-9001-single-site-45ma.js] Initialisierung abgebrochen, weil Formular oder loader.engine nicht rechtzeitig verfuegbar waren.",
       );
       return;
     }
